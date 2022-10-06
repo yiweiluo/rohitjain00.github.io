@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-home_text: A Web Developer and a Python enthusiast
-title: Rohit Jain
+home_text: 5th year PhD Candidate at Stanford Linguistics, Stanford NLP
+title: Yiwei Luo
 ---
